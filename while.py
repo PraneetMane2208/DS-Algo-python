@@ -17,7 +17,7 @@ class LinkedList:
             count = count +1    
 
 
-LinkedList().get_position(3)
+LinkedList().get_position(3,3)
 
 
 
