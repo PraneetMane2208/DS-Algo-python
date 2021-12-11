@@ -14,7 +14,7 @@ def print_fibbonaci(a,b, f):
 a=0
 b=1
 
-n=10
+n=15
 # n=20
 print_fibbonaci(a,b,count)    
 
