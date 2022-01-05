@@ -17,7 +17,7 @@ def pivot_place(list1,first,last):
 
 def quick_sort(list1,first,last):
     if first<last:
-
+        
         p=pivot_place(list1,first,last)
         quick_sort(list1,first,p-1)
         quick_sort(list1,p+1,last)

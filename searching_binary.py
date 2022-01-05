@@ -12,6 +12,6 @@ def binary_search(input_array,value):
             q=middle-1
         else:
             p=middle+1
-b=29
-a=[1,3,9,11,15,19,29]    #p=3 q=6 p=4 q=6 p=5 q=6
+b=3
+a=[1,3,3,9,11,15,19,29]    #p=3 q=6 p=4 q=6 p=5 q=6
 print(binary_search(a,b))

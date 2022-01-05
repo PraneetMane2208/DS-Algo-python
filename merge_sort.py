@@ -3,6 +3,8 @@ def mergeSort(array):
         r = len(array)//2
         L = array[:r]
         M = array[r:]
+        print("L->",L)
+        print("M ->",M)
         mergeSort(L)
         mergeSort(M)
 # def mer#ge(L,M):
