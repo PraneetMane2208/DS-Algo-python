@@ -7,3 +7,4 @@ class Element(object):
 linkedlist = [1,2,4]
 
 a = Element
+#testing merge
